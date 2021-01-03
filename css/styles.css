@@ -1,0 +1,43 @@
+:root {
+  font: 18px, Arial, sans-serif;
+  line-height: 1.4;
+}
+
+body {
+  background: #708090;
+}
+
+h1 {
+  position: absolute;
+  top: 0rem;
+  left: 40rem;
+  z-index: 2;
+}
+
+.caixa1 {
+  background: #6a5acd;
+  border: 0.1rem solid #000;
+  width: 20rem;
+  height: 15rem;
+  position: absolute;
+  left: 40rem;
+  top: 15rem;
+  border-radius: 0.4rem;
+  z-index: 1;
+}
+
+input {
+  margin-left: 2rem;
+  border-radius: 0.4rem;
+}
+
+botao1 {
+  background: #fff;
+}
+
+.caixa2 {
+  position: absolute;
+  right: 0rem;
+  top: 0rem;
+  z-index: 0;
+}
